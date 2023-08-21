@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kakarlasarath4@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KRyxtBYGS1NVer9JbGnqyz6n2U9kUSiH/view?usp=sharing](https://drive.google.com/file/d/1KRyxtBYGS1NVer9JbGnqyz6n2U9kUSiH/view?usp=sharing"></a>My Resume
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KRyxtBYGS1NVer9JbGnqyz6n2U9kUSiH/view?usp=sharing](https://drive.google.com/file/d/1KRyxtBYGS1NVer9JbGnqyz6n2U9kUSiH/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
