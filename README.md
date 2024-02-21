@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sarathchandra Reddy Kakarla</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Victory Schools Web Portal**
+- 🔭 I’m currently working on **Victory Schools Web Portal**, **Viswateja Schools Web Portal**, **A Transportation Startup Web Portal**
 
 - 🌱 I’m currently learning **ReactJS, nodeJS**
 
 - 📫 How to reach me **kakarlasarath4@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KRyxtBYGS1NVer9JbGnqyz6n2U9kUSiH/view?usp=sharing](https://drive.google.com/file/d/1KRyxtBYGS1NVer9JbGnqyz6n2U9kUSiH/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nOoIzQA9202OY6bj3QhInJJWD6wBRDnp/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
